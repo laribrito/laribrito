@@ -16,9 +16,9 @@
 
  ##
  
-🌱  Estou estudando atualmente <img src="PHPlogo.png">
+🌱  Estou estudando atualmente <img height="30px" src="PHPlogo.png">
 
-👯  Preciso de ajuda para criar um appImage. Queria muito exibir para meus amigos o meu [primeiro programa com interface gráfica](https://github.com/laribrito/primeiraInterface)!
+👯  Preciso de ajuda para criar um appImage <img height="30px" src="AppIlogo.jpeg">. Queria muito exibir para meus amigos o meu [primeiro programa com interface gráfica](https://github.com/laribrito/primeiraInterface)!
   
 <!--
  ![Snake animation](https://github.com/laribrito/laribrito/blob/output/github-contribution-grid-snake.svg)
