@@ -16,7 +16,7 @@
 
  ##
  
-🌱  Estou estudando atualmente <img src=".PHPlogo.png">
+🌱  Estou estudando atualmente <img src="PHPlogo.png">
 
 👯  Preciso de ajuda para criar um appImage. Queria muito exibir para meus amigos o meu [primeiro programa com interface gráfica](https://github.com/laribrito/primeiraInterface)!
   
