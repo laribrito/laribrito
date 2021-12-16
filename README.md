@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou Larissa Brito
 
-*Sejam bem-vind@s ao meu github*
+*Sejam bem-vindos ao meu github*
 
 <div>
   <a href="https://github.com/laribrito">
